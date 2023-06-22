@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">M4L4A2</string>
+    <string name="main_screen">Main screen</string>
+    <string name="button">Button</string>
+    <string name="splash_screen">splash screen</string>
+    <string name="jump">jump</string>
+    <string name="name">Name</string>
+</resources>
